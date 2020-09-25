@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardFlip.Android", "CardFlip\CardFlip.Android\CardFlip.Android.csproj", "{1AA35E51-595F-407D-8CB9-99A11D33473D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardFlip", "CardFlip\CardFlip\CardFlip.csproj", "{2E7E54FD-46A5-4E24-97D2-FDDB81ABC0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AA35E51-595F-407D-8CB9-99A11D33473D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA35E51-595F-407D-8CB9-99A11D33473D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA35E51-595F-407D-8CB9-99A11D33473D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1AA35E51-595F-407D-8CB9-99A11D33473D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA35E51-595F-407D-8CB9-99A11D33473D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AA35E51-595F-407D-8CB9-99A11D33473D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2E7E54FD-46A5-4E24-97D2-FDDB81ABC0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7E54FD-46A5-4E24-97D2-FDDB81ABC0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7E54FD-46A5-4E24-97D2-FDDB81ABC0AA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2E7E54FD-46A5-4E24-97D2-FDDB81ABC0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7E54FD-46A5-4E24-97D2-FDDB81ABC0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E7E54FD-46A5-4E24-97D2-FDDB81ABC0AA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F1ABB92-5AF3-4990-9D64-B8CA0431F267}
+	EndGlobalSection
+EndGlobal

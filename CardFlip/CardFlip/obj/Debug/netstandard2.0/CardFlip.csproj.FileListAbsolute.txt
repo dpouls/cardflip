@@ -1,0 +1,14 @@
+C:\Users\dalli\source\repos\CardFlip\CardFlip\CardFlip\obj\Debug\netstandard2.0\CardFlip.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\CardFlip\CardFlip\CardFlip\bin\Debug\netstandard2.0\CardFlip.deps.json
+C:\Users\dalli\source\repos\CardFlip\CardFlip\CardFlip\bin\Debug\netstandard2.0\CardFlip.dll
+C:\Users\dalli\source\repos\CardFlip\CardFlip\CardFlip\bin\Debug\netstandard2.0\ref\CardFlip.dll
+C:\Users\dalli\source\repos\CardFlip\CardFlip\CardFlip\bin\Debug\netstandard2.0\CardFlip.pdb
+C:\Users\dalli\source\repos\CardFlip\CardFlip\CardFlip\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dalli\source\repos\CardFlip\CardFlip\CardFlip\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dalli\source\repos\CardFlip\CardFlip\CardFlip\obj\Debug\netstandard2.0\CardFlip.AssemblyInfoInputs.cache
+C:\Users\dalli\source\repos\CardFlip\CardFlip\CardFlip\obj\Debug\netstandard2.0\CardFlip.AssemblyInfo.cs
+C:\Users\dalli\source\repos\CardFlip\CardFlip\CardFlip\obj\Debug\netstandard2.0\CardFlip.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\CardFlip\CardFlip\CardFlip\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dalli\source\repos\CardFlip\CardFlip\CardFlip\obj\Debug\netstandard2.0\CardFlip.dll
+C:\Users\dalli\source\repos\CardFlip\CardFlip\CardFlip\obj\Debug\netstandard2.0\ref\CardFlip.dll
+C:\Users\dalli\source\repos\CardFlip\CardFlip\CardFlip\obj\Debug\netstandard2.0\CardFlip.pdb
